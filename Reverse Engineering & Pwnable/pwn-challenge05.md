@@ -46,7 +46,7 @@ Then it store value of local_e add local_c in local_a.
     local_a = local_e + local_c;
 ```
 
-If user input 1 and 2 was lower then 0 it's will print error message
+If user input 1 and 2 was lower than 0 it's will print error message
 
 ```c
     if ((local_c < 0) || (local_e < 0)) {
@@ -55,11 +55,11 @@ If user input 1 and 2 was lower then 0 it's will print error message
     }
 ```
 
-To get a flag, I must somehow send input 1 and input 2 that **Not lower then 0** and total **must be lower then zero** and value = -31337
+To get a flag, I must somehow send input 1 and input 2 that **Not lower than 0** and total **must be lower than zero** and value = -31337
 
 ![image-20221003220517597](./pwn-challenge05.assets/image-20221003220517597.png)
 
-What happened when total was more then 32767 is it's become **minus**.
+What happened when total was more than 32767 is it's become **minus**.
 
 ![image-20221003220908070](./pwn-challenge05.assets/image-20221003220908070.png)
 
