@@ -10,7 +10,7 @@ Binary receive 2 user input as a short.
 
 short datatype has a range of -32768 to +32767
 
-![Data Types in C](./pwn-challenge05.assets/Data%2BTypes%2Bin%2BC%2BRivisited%2B2.jpg)
+![Data_Types_in_C](./pwn-challenge05.assets/Data%252BTypes%252Bin%252BC%252BRivisited%252B2.jpg)
 
 Look at this part of code.
 
@@ -67,5 +67,5 @@ What happened when total was more then 32767 is it's become **minus**.
 
 So i send first number as 32767 and second number as 1432 and got a flag
 
-![Pasted image 20221001123307](./pwn-challenge05.assets/Pasted image 20221001123307.png)
+![Pasted image 20221001123307](./pwn-challenge05.assets/Pasted%20image%2020221001123307.png)
 
