@@ -5,7 +5,7 @@ Contribution appreciated :)
 
 | Challenge Category            | Write-ups                                            |
 | ----------------------------- | ---------------------------------------------------- |
-| Digital Forensic              | [readme.md](Digital Forensic\readme.md)              |
-| Mobile Security               | [readme.md](Mobile Security\readme.md)               |
-| Network Security              | [readme.md](Network Security\readme.md)              |
-| Reverse Engineering & Pwnable | [readme.md](Reverse Engineering & Pwnable\readme.md) |
+| Digital Forensic              | [readme.md](Digital%20Forensic\readme.md)              |
+| Mobile Security               | [readme.md](Mobile%20Security\readme.md)               |
+| Network Security              | [readme.md](Network%20Security\readme.md)              |
+| Reverse Engineering & Pwnable | [readme.md](Reverse%20Engineering%20&%20Pwnable\readme.md) |
