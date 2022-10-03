@@ -51,5 +51,5 @@ io.recvline()
 python3 exploit.py DEBUG
 ```
 
-![Pasted image 20221001131305](./pwn-challenge04.assets/Pasted image 20221001131305.png)
+![Pasted image 20221001131305](./pwn-challenge04.assets/Pasted%20image%2020221001131305.png)
 
