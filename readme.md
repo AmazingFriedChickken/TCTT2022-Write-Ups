@@ -14,7 +14,7 @@ Contribution appreciated :)
 
 ## Honorable mention
 
-pwnable 01-06 Write-ups by [Fnnnr](https://medium.com/@fnnnr)
+### pwnable 01-06 Write-ups by [Fnnnr](https://medium.com/@fnnnr)
 
 [pwnable-01] [https://medium.com/@fnnnr/tctt2022-pwnable-01-ecd4b1e174d6](https://medium.com/@fnnnr/tctt2022-pwnable-01-ecd4b1e174d6)
 
@@ -28,5 +28,6 @@ pwnable 01-06 Write-ups by [Fnnnr](https://medium.com/@fnnnr)
 
 [pwnable-06] [https://medium.com/@fnnnr/tctt2022-pwnable-06-a0e8b83ab447](https://medium.com/@fnnnr/tctt2022-pwnable-06-a0e8b83ab447)
 
-crypto-challange-06 by iiiceburg
+### crypto-challange-06 by iiiceburg
+
 [https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup](https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup)
