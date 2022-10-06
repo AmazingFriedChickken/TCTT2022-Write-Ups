@@ -31,3 +31,12 @@ Contribution appreciated :)
 ### crypto-challange-06 by iiiceburg
 
 [https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup](https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup)
+
+### web-challenge by [engiblog](https://www.engiblog.com/category/ctf)
+
+[Web-challenge01] (https://www.engiblog.com/ctf/web-challenge01.html)
+
+[Web-challenge03] (https://www.engiblog.com/ctf/web-challenge03.html)
+
+[Web-challenge04] (https://www.engiblog.com/ctf/web-challenge04.html)
+
