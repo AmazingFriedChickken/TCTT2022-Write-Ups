@@ -42,4 +42,4 @@ Contribution appreciated :)
 
 ### program-challenge-02 by N.SX
 
-[https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce](https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce)
+[program-challenge-02] (https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce)
