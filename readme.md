@@ -28,18 +28,18 @@ Contribution appreciated :)
 
 [pwnable-06] [https://medium.com/@fnnnr/tctt2022-pwnable-06-a0e8b83ab447](https://medium.com/@fnnnr/tctt2022-pwnable-06-a0e8b83ab447)
 
-### crypto-challange-06 by iiiceburg
+### crypto-challange-06 by [iiiceburg](https://github.com/iiiceburg/)
 
-[https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup](https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup)
+[crypto-challange-06] [https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup](https://github.com/iiiceburg/TCTT2022-crypto-challenge06-writeup)
 
 ### web-challenge by [engiblog](https://www.engiblog.com/category/ctf)
 
-[Web-challenge01] (https://www.engiblog.com/ctf/web-challenge01.html)
+[Web-challenge01] [https://www.engiblog.com/ctf/web-challenge01.html](https://www.engiblog.com/ctf/web-challenge01.html)
 
-[Web-challenge03] (https://www.engiblog.com/ctf/web-challenge03.html)
+[Web-challenge03] [https://www.engiblog.com/ctf/web-challenge03.html](https://www.engiblog.com/ctf/web-challenge03.html)
 
-[Web-challenge04] (https://www.engiblog.com/ctf/web-challenge04.html)
+[Web-challenge04] [https://www.engiblog.com/ctf/web-challenge04.html](https://www.engiblog.com/ctf/web-challenge04.html)
 
-### program-challenge-02 by N.SX
+### program-challenge-02 by [N.SX](https://medium.com/@N.SX/)
 
-[program-challenge-02] (https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce)
+[program-challenge-02] [https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce](https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce)
