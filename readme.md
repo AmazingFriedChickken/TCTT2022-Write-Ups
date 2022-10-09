@@ -36,6 +36,8 @@ Contribution appreciated :)
 
 [Web-challenge01] [https://www.engiblog.com/ctf/web-challenge01.html](https://www.engiblog.com/ctf/web-challenge01.html)
 
+[Web-challenge02] [https://www.engiblog.com/ctf/web-challenge02.html](https://www.engiblog.com/ctf/web-challenge02.html)
+
 [Web-challenge03] [https://www.engiblog.com/ctf/web-challenge03.html](https://www.engiblog.com/ctf/web-challenge03.html)
 
 [Web-challenge04] [https://www.engiblog.com/ctf/web-challenge04.html](https://www.engiblog.com/ctf/web-challenge04.html)
