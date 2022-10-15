@@ -45,3 +45,7 @@ Contribution appreciated :)
 ### program-challenge-02 by [N.SX](https://medium.com/@N.SX/)
 
 [program-challenge-02] [https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce](https://medium.com/@N.SX/tctt2022-programming-02-44a4a46064ce)
+
+### Programming 01 (Pinpad), Crypto 01 and Forensics 01 by [Nisaruj Rattanaaram](https://nisaruj.medium.com/)
+
+[https://nisaruj.medium.com/thailand-cyber-top-talent-2022-writeup-31646dd32f4d](https://nisaruj.medium.com/thailand-cyber-top-talent-2022-writeup-31646dd32f4d)
